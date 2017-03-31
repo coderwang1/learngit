@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick AND simple.
 branch merge.
 fix bug to 101.
+change for stash.
